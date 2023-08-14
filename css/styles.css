@@ -95,7 +95,7 @@ h1 {
     color: #66BFBF;
     font-size: 562.5%;
     margin: 50px auto 0 auto;
-    font-family: 'Sacramento', cursive;
+    font-family: 'Times New Roman', cursive;
 }
 
 h2 {
@@ -235,7 +235,7 @@ li button p {
 
 nav li {
     position: relative;
-    left: 32%;
+    left: 25.4%;
     float: left;
     padding-top: 0;
     margin: 0 0 0 1px;
@@ -292,7 +292,7 @@ p {
 .top-bar {
     transform: skewX(-20deg);
     margin-top: 0;
-    width: 100%;
+    width: 102%;
     height: 8.5%;
     background-color: #282A3A;
     position: fixed;
@@ -327,6 +327,10 @@ p {
     padding-top: 12px;
     top: 0%;
     right: inherit;
+}
+
+.top-bar-name {
+    left: -140%;
 }
 
 .top-cloud {
